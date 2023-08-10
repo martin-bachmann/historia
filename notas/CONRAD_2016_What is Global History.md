@@ -13,6 +13,10 @@ Problema do nacionalismo metodológico e eurocentrismo. (p. 3-4)
 Historiciza o pensamento global em trabalhos históricos desde a antiguidade.
 
 ### Competing approaches
+História comparada foi muito utilizada por vertentes mais próximas da sociologia.
+
+Hoje, a história comparada está utilizand
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgyODczMjQ1LC0xODQ4NDI4MDg4XX0=
+eyJoaXN0b3J5IjpbLTE4MTcwNzM4NiwtODI4NzMyNDUsLTE4ND
+g0MjgwODhdfQ==
 -->
