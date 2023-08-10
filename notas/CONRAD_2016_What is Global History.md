@@ -10,8 +10,9 @@ Problema do nacionalismo metodológico e eurocentrismo. (p. 3-4)
 "The aim is not to write a total history of the planet. It is often more a matter of writing a history of demarcated (i.e., non-'global') spaces, but with an awareness of global connections and structural conditions." (p. 12)
 
 ### A short history of thinking globally
+Historiciza o pensamento global em trabalhos históricos desde a antiguidade.
 
-
+### Competing approaches
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjEwMzU1NTEyOSwtMTg0ODQyODA4OF19
+eyJoaXN0b3J5IjpbLTgyODczMjQ1LC0xODQ4NDI4MDg4XX0=
 -->
