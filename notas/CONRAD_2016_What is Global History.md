@@ -1,5 +1,6 @@
 CONRAD, Sebastian. _What is Global History?_ Princeton: Princeton University Press, 2016.
 
+### Introduction
 A evolução tecnológica da internet e política na necessidade de ir além da civilização ocidental como motores importantes para a popularização da história global. Porém, por diversos motivos, as discussões continuam centradas na Europa e EUA. (p. 1-2)
 
 Problema do nacionalismo metodológico e eurocentrismo. (p. 3-4)
@@ -8,7 +9,9 @@ Problema do nacionalismo metodológico e eurocentrismo. (p. 3-4)
 
 "The aim is not to write a total history of the planet. It is often more a matter of writing a history of demarcated (i.e., non-'global') spaces, but with an awareness of global connections and structural conditions." (p. 12)
 
-Cap. 3
+### A short history of thinking globally
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NDg0MjgwODhdfQ==
+eyJoaXN0b3J5IjpbMjEwMzU1NTEyOSwtMTg0ODQyODA4OF19
 -->
