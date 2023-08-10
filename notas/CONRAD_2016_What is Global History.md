@@ -18,7 +18,9 @@ História comparada foi muito utilizada por vertentes mais próximas da sociolog
 Hoje, a história comparada está prestando muito mais atenção nas conexões e questionando princípios mais rígidos.
 
 A comparação permite engajar questões diferentes de outras abordagens, pensando de forma mais articulada as especificidades de cada caso. Pesquisa orientada por problemas.
+
+Transnational history
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MzM1MTYyMTIsLTgyODczMjQ1LC0xOD
-Q4NDI4MDg4XX0=
+eyJoaXN0b3J5IjpbMzY4MjQyNzUwLC0xNjMzNTE2MjEyLC04Mj
+g3MzI0NSwtMTg0ODQyODA4OF19
 -->
