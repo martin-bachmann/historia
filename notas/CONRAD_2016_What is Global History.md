@@ -16,7 +16,9 @@ Historiciza o pensamento global em trabalhos históricos desde a antiguidade.
 História comparada foi muito utilizada por vertentes mais próximas da sociologia.
 
 Hoje, a história comparada está prestando muito mais atenção nas conexões e questionando princípios mais rígidos.
+
+A comparação permite engajar questões diferentes de outras abordagens
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQxMzk0NDE1OSwtODI4NzMyNDUsLTE4ND
+eyJoaXN0b3J5IjpbLTczNTAzNzAxNywtODI4NzMyNDUsLTE4ND
 g0MjgwODhdfQ==
 -->
