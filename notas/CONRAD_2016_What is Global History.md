@@ -15,8 +15,8 @@ Historiciza o pensamento global em trabalhos históricos desde a antiguidade.
 ### Competing approaches
 História comparada foi muito utilizada por vertentes mais próximas da sociologia.
 
-Hoje, a história comparada está utilizand
+Hoje, a história comparada está prestando muito mais atenção nas conexões e questionando princípios mais rígidos.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MTcwNzM4NiwtODI4NzMyNDUsLTE4ND
+eyJoaXN0b3J5IjpbMTQxMzk0NDE1OSwtODI4NzMyNDUsLTE4ND
 g0MjgwODhdfQ==
 -->
